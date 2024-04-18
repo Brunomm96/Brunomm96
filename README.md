@@ -12,7 +12,7 @@ graduated in Systems Analysis and Development at UNICAMP and currently work as a
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
 ## Stats ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brunomm96&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brunomm96&show_icons=true&theme=tokyonight&hide_rank=true)
 
 
 ## Most used technologies ##
