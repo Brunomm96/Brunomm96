@@ -3,7 +3,7 @@
 ## About me ##
 
 Over 10 years working in the Information Technology area,
-graduated in Systems Analysis and Development at UNICAMP and currently work as a Full Stack Developer
+graduated in Systems Analysis and Development at UNICAMP and currently working as a Full Stack Developer
 
 ## Links ##
 
