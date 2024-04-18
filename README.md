@@ -1,4 +1,4 @@
-# Hello! I'm Bruno Marola 🖐🏻 #
+# Hello! I'm Bruno Moreira Marola 🖐🏻 #
 
 ## About me ##
 
